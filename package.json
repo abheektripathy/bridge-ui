@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@avail-wallet/react": "workspace:*",
     "@datadog/browser-logs": "^5.29.1",
     "@datadog/browser-rum": "^5.29.1",
     "@hookform/resolvers": "^3.9.1",
